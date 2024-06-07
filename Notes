@@ -1,0 +1,11 @@
+So one of the things that's really interesting about this, is that Gemma
+
+has a tokenizer Of 256,000 tokens.
+
+Meaning that the way that the words are split up is quite different.
+
+and this doesn't affect the English as much.
+
+So comparing to LLaMA2 a Lama to has 32,000 tokens in its vocab size.
+
+I, it doesn't affect the English as much.
